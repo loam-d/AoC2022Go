@@ -41,8 +41,10 @@ func main() {
 	case "12":
 		fmt.Println(day12_1())
 	case "13":
-	default:
 		fmt.Println(day13_1())
+	case "14":
+	default:
+		fmt.Println(day14_1())
 	}
 
 }
